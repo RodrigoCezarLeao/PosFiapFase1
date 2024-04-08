@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rodrigo\\Desktop\\PosAluraFase1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8573B1FC-EFA9-4E07-BA61-C5611109AF6E}|PosAluraFase1\\PosAluraFase1.csproj|c:\\users\\rodrigo\\desktop\\posalurafase1\\posalurafase1\\controllers\\assetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8573B1FC-EFA9-4E07-BA61-C5611109AF6E}|PosAluraFase1\\PosAluraFase1.csproj|solutionrelative:posalurafase1\\controllers\\assetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8573B1FC-EFA9-4E07-BA61-C5611109AF6E}|PosAluraFase1\\PosAluraFase1.csproj|c:\\users\\rodrigo\\desktop\\posalurafase1\\posalurafase1\\dbworker\\repository\\assetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8573B1FC-EFA9-4E07-BA61-C5611109AF6E}|PosAluraFase1\\PosAluraFase1.csproj|solutionrelative:posalurafase1\\dbworker\\repository\\assetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8573B1FC-EFA9-4E07-BA61-C5611109AF6E}|PosAluraFase1\\PosAluraFase1.csproj|c:\\users\\rodrigo\\desktop\\posalurafase1\\posalurafase1\\dbworker\\idbworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8573B1FC-EFA9-4E07-BA61-C5611109AF6E}|PosAluraFase1\\PosAluraFase1.csproj|solutionrelative:posalurafase1\\dbworker\\idbworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8573B1FC-EFA9-4E07-BA61-C5611109AF6E}|PosAluraFase1\\PosAluraFase1.csproj|c:\\users\\rodrigo\\desktop\\posalurafase1\\posalurafase1\\dbworker\\dbworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8573B1FC-EFA9-4E07-BA61-C5611109AF6E}|PosAluraFase1\\PosAluraFase1.csproj|solutionrelative:posalurafase1\\dbworker\\dbworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8573B1FC-EFA9-4E07-BA61-C5611109AF6E}|PosAluraFase1\\PosAluraFase1.csproj|c:\\users\\rodrigo\\desktop\\posalurafase1\\posalurafase1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8573B1FC-EFA9-4E07-BA61-C5611109AF6E}|PosAluraFase1\\PosAluraFase1.csproj|solutionrelative:posalurafase1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8573B1FC-EFA9-4E07-BA61-C5611109AF6E}|PosAluraFase1\\PosAluraFase1.csproj|c:\\users\\rodrigo\\desktop\\posalurafase1\\posalurafase1\\dbworker\\interfaces\\iassetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8573B1FC-EFA9-4E07-BA61-C5611109AF6E}|PosAluraFase1\\PosAluraFase1.csproj|solutionrelative:posalurafase1\\dbworker\\interfaces\\iassetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8573B1FC-EFA9-4E07-BA61-C5611109AF6E}|PosAluraFase1\\PosAluraFase1.csproj|c:\\users\\rodrigo\\desktop\\posalurafase1\\posalurafase1\\models\\asset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8573B1FC-EFA9-4E07-BA61-C5611109AF6E}|PosAluraFase1\\PosAluraFase1.csproj|solutionrelative:posalurafase1\\models\\asset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AssetController.cs",
+              "DocumentMoniker": "C:\\Users\\Rodrigo\\Desktop\\PosAluraFase1\\PosAluraFase1\\Controllers\\AssetController.cs",
+              "RelativeDocumentMoniker": "PosAluraFase1\\Controllers\\AssetController.cs",
+              "ToolTip": "C:\\Users\\Rodrigo\\Desktop\\PosAluraFase1\\PosAluraFase1\\Controllers\\AssetController.cs",
+              "RelativeToolTip": "PosAluraFase1\\Controllers\\AssetController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwBIAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T17:52:27.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AssetRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Rodrigo\\Desktop\\PosAluraFase1\\PosAluraFase1\\DbWorker\\Repository\\AssetRepository.cs",
+              "RelativeDocumentMoniker": "PosAluraFase1\\DbWorker\\Repository\\AssetRepository.cs",
+              "ToolTip": "C:\\Users\\Rodrigo\\Desktop\\PosAluraFase1\\PosAluraFase1\\DbWorker\\Repository\\AssetRepository.cs",
+              "RelativeToolTip": "PosAluraFase1\\DbWorker\\Repository\\AssetRepository.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAIA+wCMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T16:40:52.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IAssetRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Rodrigo\\Desktop\\PosAluraFase1\\PosAluraFase1\\DbWorker\\Interfaces\\IAssetRepository.cs",
+              "RelativeDocumentMoniker": "PosAluraFase1\\DbWorker\\Interfaces\\IAssetRepository.cs",
+              "ToolTip": "C:\\Users\\Rodrigo\\Desktop\\PosAluraFase1\\PosAluraFase1\\DbWorker\\Interfaces\\IAssetRepository.cs",
+              "RelativeToolTip": "PosAluraFase1\\DbWorker\\Interfaces\\IAssetRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T16:40:30.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IDbWorker.cs",
+              "DocumentMoniker": "C:\\Users\\Rodrigo\\Desktop\\PosAluraFase1\\PosAluraFase1\\DbWorker\\IDbWorker.cs",
+              "RelativeDocumentMoniker": "PosAluraFase1\\DbWorker\\IDbWorker.cs",
+              "ToolTip": "C:\\Users\\Rodrigo\\Desktop\\PosAluraFase1\\PosAluraFase1\\DbWorker\\IDbWorker.cs",
+              "RelativeToolTip": "PosAluraFase1\\DbWorker\\IDbWorker.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T16:39:11.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DbWorker.cs",
+              "DocumentMoniker": "C:\\Users\\Rodrigo\\Desktop\\PosAluraFase1\\PosAluraFase1\\DbWorker\\DbWorker.cs",
+              "RelativeDocumentMoniker": "PosAluraFase1\\DbWorker\\DbWorker.cs",
+              "ToolTip": "C:\\Users\\Rodrigo\\Desktop\\PosAluraFase1\\PosAluraFase1\\DbWorker\\DbWorker.cs",
+              "RelativeToolTip": "PosAluraFase1\\DbWorker\\DbWorker.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T16:38:45.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Asset.cs",
+              "DocumentMoniker": "C:\\Users\\Rodrigo\\Desktop\\PosAluraFase1\\PosAluraFase1\\Models\\Asset.cs",
+              "RelativeDocumentMoniker": "PosAluraFase1\\Models\\Asset.cs",
+              "ToolTip": "C:\\Users\\Rodrigo\\Desktop\\PosAluraFase1\\PosAluraFase1\\Models\\Asset.cs",
+              "RelativeToolTip": "PosAluraFase1\\Models\\Asset.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T16:31:27.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rodrigo\\Desktop\\PosAluraFase1\\PosAluraFase1\\Program.cs",
+              "RelativeDocumentMoniker": "PosAluraFase1\\Program.cs",
+              "ToolTip": "C:\\Users\\Rodrigo\\Desktop\\PosAluraFase1\\PosAluraFase1\\Program.cs",
+              "RelativeToolTip": "PosAluraFase1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T16:30:59.253Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

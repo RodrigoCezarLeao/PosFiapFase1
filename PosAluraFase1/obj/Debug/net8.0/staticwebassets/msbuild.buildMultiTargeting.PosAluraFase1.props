@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PosAluraFase1.props" />
+</Project>
