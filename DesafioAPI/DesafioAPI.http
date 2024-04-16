@@ -1,0 +1,9 @@
+@DesafioAPI_HostAddress = http://localhost:5256
+
+GET {{DesafioAPI_HostAddress}}/Product/
+Accept: application/json
+###
+
+POST {{DesafioAPI_HostAddress}}/Product/add
+Accept: application/json
+###

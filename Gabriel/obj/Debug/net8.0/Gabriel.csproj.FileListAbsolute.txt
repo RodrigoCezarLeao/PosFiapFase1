@@ -1,0 +1,15 @@
+C:\Users\Rodrigo\Desktop\PosAluraFase1\Gabriel\bin\Debug\net8.0\Gabriel.exe
+C:\Users\Rodrigo\Desktop\PosAluraFase1\Gabriel\bin\Debug\net8.0\Gabriel.deps.json
+C:\Users\Rodrigo\Desktop\PosAluraFase1\Gabriel\bin\Debug\net8.0\Gabriel.runtimeconfig.json
+C:\Users\Rodrigo\Desktop\PosAluraFase1\Gabriel\bin\Debug\net8.0\Gabriel.dll
+C:\Users\Rodrigo\Desktop\PosAluraFase1\Gabriel\bin\Debug\net8.0\Gabriel.pdb
+C:\Users\Rodrigo\Desktop\PosAluraFase1\Gabriel\obj\Debug\net8.0\Gabriel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rodrigo\Desktop\PosAluraFase1\Gabriel\obj\Debug\net8.0\Gabriel.AssemblyInfoInputs.cache
+C:\Users\Rodrigo\Desktop\PosAluraFase1\Gabriel\obj\Debug\net8.0\Gabriel.AssemblyInfo.cs
+C:\Users\Rodrigo\Desktop\PosAluraFase1\Gabriel\obj\Debug\net8.0\Gabriel.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\Desktop\PosAluraFase1\Gabriel\obj\Debug\net8.0\Gabriel.sourcelink.json
+C:\Users\Rodrigo\Desktop\PosAluraFase1\Gabriel\obj\Debug\net8.0\Gabriel.dll
+C:\Users\Rodrigo\Desktop\PosAluraFase1\Gabriel\obj\Debug\net8.0\refint\Gabriel.dll
+C:\Users\Rodrigo\Desktop\PosAluraFase1\Gabriel\obj\Debug\net8.0\Gabriel.pdb
+C:\Users\Rodrigo\Desktop\PosAluraFase1\Gabriel\obj\Debug\net8.0\Gabriel.genruntimeconfig.cache
+C:\Users\Rodrigo\Desktop\PosAluraFase1\Gabriel\obj\Debug\net8.0\ref\Gabriel.dll

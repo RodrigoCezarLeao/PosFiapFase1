@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PosAluraFase1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+80a995b86f2e381369f92ca46cac84c44062f3f9")]
 [assembly: System.Reflection.AssemblyProductAttribute("PosAluraFase1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PosAluraFase1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
