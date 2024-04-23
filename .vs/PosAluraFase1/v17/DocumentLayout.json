@@ -3,48 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Rodrigo\\Desktop\\PosAluraFase1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{10CDE8C0-477E-421B-98F1-89F1811F71C0}|DesafioAPI\\DesafioAPI.csproj|c:\\users\\rodrigo\\desktop\\posalurafase1\\desafioapi\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10CDE8C0-477E-421B-98F1-89F1811F71C0}|DesafioAPI\\DesafioAPI.csproj|solutionrelative:desafioapi\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DBC779ED-6DD3-4630-80D6-BA4345179C5E}|TradeManager\\TradeManager.csproj|c:\\users\\rodrigo\\desktop\\posalurafase1\\trademanager\\repositories\\operationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBC779ED-6DD3-4630-80D6-BA4345179C5E}|TradeManager\\TradeManager.csproj|solutionrelative:trademanager\\repositories\\operationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10CDE8C0-477E-421B-98F1-89F1811F71C0}|DesafioAPI\\DesafioAPI.csproj|c:\\users\\rodrigo\\desktop\\posalurafase1\\desafioapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10CDE8C0-477E-421B-98F1-89F1811F71C0}|DesafioAPI\\DesafioAPI.csproj|solutionrelative:desafioapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DBC779ED-6DD3-4630-80D6-BA4345179C5E}|TradeManager\\TradeManager.csproj|c:\\users\\rodrigo\\desktop\\posalurafase1\\trademanager\\controllers\\operationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBC779ED-6DD3-4630-80D6-BA4345179C5E}|TradeManager\\TradeManager.csproj|solutionrelative:trademanager\\controllers\\operationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10CDE8C0-477E-421B-98F1-89F1811F71C0}|DesafioAPI\\DesafioAPI.csproj|c:\\users\\rodrigo\\desktop\\posalurafase1\\desafioapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10CDE8C0-477E-421B-98F1-89F1811F71C0}|DesafioAPI\\DesafioAPI.csproj|solutionrelative:desafioapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DBC779ED-6DD3-4630-80D6-BA4345179C5E}|TradeManager\\TradeManager.csproj|c:\\users\\rodrigo\\desktop\\posalurafase1\\trademanager\\repositories\\interfaces\\ioperationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBC779ED-6DD3-4630-80D6-BA4345179C5E}|TradeManager\\TradeManager.csproj|solutionrelative:trademanager\\repositories\\interfaces\\ioperationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10CDE8C0-477E-421B-98F1-89F1811F71C0}|DesafioAPI\\DesafioAPI.csproj|c:\\users\\rodrigo\\desktop\\posalurafase1\\desafioapi\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10CDE8C0-477E-421B-98F1-89F1811F71C0}|DesafioAPI\\DesafioAPI.csproj|solutionrelative:desafioapi\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DBC779ED-6DD3-4630-80D6-BA4345179C5E}|TradeManager\\TradeManager.csproj|c:\\users\\rodrigo\\desktop\\posalurafase1\\trademanager\\models\\operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBC779ED-6DD3-4630-80D6-BA4345179C5E}|TradeManager\\TradeManager.csproj|solutionrelative:trademanager\\models\\operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10CDE8C0-477E-421B-98F1-89F1811F71C0}|DesafioAPI\\DesafioAPI.csproj|c:\\users\\rodrigo\\desktop\\posalurafase1\\desafioapi\\repositories\\contextdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10CDE8C0-477E-421B-98F1-89F1811F71C0}|DesafioAPI\\DesafioAPI.csproj|solutionrelative:desafioapi\\repositories\\contextdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DBC779ED-6DD3-4630-80D6-BA4345179C5E}|TradeManager\\TradeManager.csproj|c:\\users\\rodrigo\\desktop\\posalurafase1\\trademanager\\trademanager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DBC779ED-6DD3-4630-80D6-BA4345179C5E}|TradeManager\\TradeManager.csproj|solutionrelative:trademanager\\trademanager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10CDE8C0-477E-421B-98F1-89F1811F71C0}|DesafioAPI\\DesafioAPI.csproj|c:\\users\\rodrigo\\desktop\\posalurafase1\\desafioapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10CDE8C0-477E-421B-98F1-89F1811F71C0}|DesafioAPI\\DesafioAPI.csproj|solutionrelative:desafioapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DBC779ED-6DD3-4630-80D6-BA4345179C5E}|TradeManager\\TradeManager.csproj|c:\\users\\rodrigo\\desktop\\posalurafase1\\trademanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBC779ED-6DD3-4630-80D6-BA4345179C5E}|TradeManager\\TradeManager.csproj|solutionrelative:trademanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10CDE8C0-477E-421B-98F1-89F1811F71C0}|DesafioAPI\\DesafioAPI.csproj|c:\\users\\rodrigo\\desktop\\posalurafase1\\desafioapi\\repositories\\interfaces\\icontextdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10CDE8C0-477E-421B-98F1-89F1811F71C0}|DesafioAPI\\DesafioAPI.csproj|solutionrelative:desafioapi\\repositories\\interfaces\\icontextdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10CDE8C0-477E-421B-98F1-89F1811F71C0}|DesafioAPI\\DesafioAPI.csproj|c:\\users\\rodrigo\\desktop\\posalurafase1\\desafioapi\\repositories\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10CDE8C0-477E-421B-98F1-89F1811F71C0}|DesafioAPI\\DesafioAPI.csproj|solutionrelative:desafioapi\\repositories\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10CDE8C0-477E-421B-98F1-89F1811F71C0}|DesafioAPI\\DesafioAPI.csproj|c:\\users\\rodrigo\\desktop\\posalurafase1\\desafioapi\\desafioapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{10CDE8C0-477E-421B-98F1-89F1811F71C0}|DesafioAPI\\DesafioAPI.csproj|solutionrelative:desafioapi\\desafioapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10CDE8C0-477E-421B-98F1-89F1811F71C0}|DesafioAPI\\DesafioAPI.csproj|c:\\users\\rodrigo\\desktop\\posalurafase1\\desafioapi\\services\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10CDE8C0-477E-421B-98F1-89F1811F71C0}|DesafioAPI\\DesafioAPI.csproj|solutionrelative:desafioapi\\services\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10CDE8C0-477E-421B-98F1-89F1811F71C0}|DesafioAPI\\DesafioAPI.csproj|c:\\users\\rodrigo\\desktop\\posalurafase1\\desafioapi\\desafioapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{10CDE8C0-477E-421B-98F1-89F1811F71C0}|DesafioAPI\\DesafioAPI.csproj|solutionrelative:desafioapi\\desafioapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+      "AbsoluteMoniker": "D:0:0:{DBC779ED-6DD3-4630-80D6-BA4345179C5E}|TradeManager\\TradeManager.csproj|c:\\users\\rodrigo\\desktop\\posalurafase1\\trademanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DBC779ED-6DD3-4630-80D6-BA4345179C5E}|TradeManager\\TradeManager.csproj|solutionrelative:trademanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,153 +38,97 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Rodrigo\\Desktop\\PosAluraFase1\\DesafioAPI\\Repositories\\Interfaces\\IProductRepository.cs",
-              "RelativeDocumentMoniker": "DesafioAPI\\Repositories\\Interfaces\\IProductRepository.cs",
-              "ToolTip": "C:\\Users\\Rodrigo\\Desktop\\PosAluraFase1\\DesafioAPI\\Repositories\\Interfaces\\IProductRepository.cs",
-              "RelativeToolTip": "DesafioAPI\\Repositories\\Interfaces\\IProductRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T18:01:46.153Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Rodrigo\\Desktop\\PosAluraFase1\\DesafioAPI\\Repositories\\ProductRepository.cs",
-              "RelativeDocumentMoniker": "DesafioAPI\\Repositories\\ProductRepository.cs",
-              "ToolTip": "C:\\Users\\Rodrigo\\Desktop\\PosAluraFase1\\DesafioAPI\\Repositories\\ProductRepository.cs",
-              "RelativeToolTip": "DesafioAPI\\Repositories\\ProductRepository.cs",
-              "ViewState": "AQIAADYAAAAAAAAAAAAAAEwAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T18:03:48.229Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProductService.cs",
-              "DocumentMoniker": "C:\\Users\\Rodrigo\\Desktop\\PosAluraFase1\\DesafioAPI\\Services\\ProductService.cs",
-              "RelativeDocumentMoniker": "DesafioAPI\\Services\\ProductService.cs",
-              "ToolTip": "C:\\Users\\Rodrigo\\Desktop\\PosAluraFase1\\DesafioAPI\\Services\\ProductService.cs",
-              "RelativeToolTip": "DesafioAPI\\Services\\ProductService.cs",
-              "ViewState": "AQIAACcAAAAAAAAAAAAMwDMAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T18:27:01.171Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IProductService.cs",
-              "DocumentMoniker": "C:\\Users\\Rodrigo\\Desktop\\PosAluraFase1\\DesafioAPI\\Services\\Interfaces\\IProductService.cs",
-              "RelativeDocumentMoniker": "DesafioAPI\\Services\\Interfaces\\IProductService.cs",
-              "ToolTip": "C:\\Users\\Rodrigo\\Desktop\\PosAluraFase1\\DesafioAPI\\Services\\Interfaces\\IProductService.cs",
-              "RelativeToolTip": "DesafioAPI\\Services\\Interfaces\\IProductService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T18:27:26.76Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IContextDB.cs",
-              "DocumentMoniker": "C:\\Users\\Rodrigo\\Desktop\\PosAluraFase1\\DesafioAPI\\Repositories\\Interfaces\\IContextDB.cs",
-              "RelativeDocumentMoniker": "DesafioAPI\\Repositories\\Interfaces\\IContextDB.cs",
-              "ToolTip": "C:\\Users\\Rodrigo\\Desktop\\PosAluraFase1\\DesafioAPI\\Repositories\\Interfaces\\IContextDB.cs",
-              "RelativeToolTip": "DesafioAPI\\Repositories\\Interfaces\\IContextDB.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA2AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T21:04:26.389Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ContextDB.cs",
-              "DocumentMoniker": "C:\\Users\\Rodrigo\\Desktop\\PosAluraFase1\\DesafioAPI\\Repositories\\ContextDB.cs",
-              "RelativeDocumentMoniker": "DesafioAPI\\Repositories\\ContextDB.cs",
-              "ToolTip": "C:\\Users\\Rodrigo\\Desktop\\PosAluraFase1\\DesafioAPI\\Repositories\\ContextDB.cs",
-              "RelativeToolTip": "DesafioAPI\\Repositories\\ContextDB.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAQwCoAAAA6AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T21:02:16.244Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "DesafioAPI.http",
-              "DocumentMoniker": "C:\\Users\\Rodrigo\\Desktop\\PosAluraFase1\\DesafioAPI\\DesafioAPI.http",
-              "RelativeDocumentMoniker": "DesafioAPI\\DesafioAPI.http",
-              "ToolTip": "C:\\Users\\Rodrigo\\Desktop\\PosAluraFase1\\DesafioAPI\\DesafioAPI.http",
-              "RelativeToolTip": "DesafioAPI\\DesafioAPI.http",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-04-16T18:35:36.354Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "DesafioAPI",
-              "DocumentMoniker": "C:\\Users\\Rodrigo\\Desktop\\PosAluraFase1\\DesafioAPI\\DesafioAPI.csproj",
-              "RelativeDocumentMoniker": "DesafioAPI\\DesafioAPI.csproj",
-              "ToolTip": "C:\\Users\\Rodrigo\\Desktop\\PosAluraFase1\\DesafioAPI\\DesafioAPI.csproj",
-              "RelativeToolTip": "DesafioAPI\\DesafioAPI.csproj",
+              "Title": "TradeManager",
+              "DocumentMoniker": "C:\\Users\\Rodrigo\\Desktop\\PosAluraFase1\\TradeManager\\TradeManager.csproj",
+              "RelativeDocumentMoniker": "TradeManager\\TradeManager.csproj",
+              "ToolTip": "C:\\Users\\Rodrigo\\Desktop\\PosAluraFase1\\TradeManager\\TradeManager.csproj",
+              "RelativeToolTip": "TradeManager\\TradeManager.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-16T18:26:47.273Z",
+              "WhenOpened": "2024-04-23T19:01:36.341Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\Rodrigo\\Desktop\\PosAluraFase1\\DesafioAPI\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "DesafioAPI\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\Rodrigo\\Desktop\\PosAluraFase1\\DesafioAPI\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "DesafioAPI\\Controllers\\ProductController.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBQAAAAMAAAA",
+              "Title": "IOperationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Rodrigo\\Desktop\\PosAluraFase1\\TradeManager\\Repositories\\Interfaces\\IOperationRepository.cs",
+              "RelativeDocumentMoniker": "TradeManager\\Repositories\\Interfaces\\IOperationRepository.cs",
+              "ToolTip": "C:\\Users\\Rodrigo\\Desktop\\PosAluraFase1\\TradeManager\\Repositories\\Interfaces\\IOperationRepository.cs",
+              "RelativeToolTip": "TradeManager\\Repositories\\Interfaces\\IOperationRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T18:22:35.93Z",
+              "WhenOpened": "2024-04-23T17:30:52.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Operation.cs",
+              "DocumentMoniker": "C:\\Users\\Rodrigo\\Desktop\\PosAluraFase1\\TradeManager\\Models\\Operation.cs",
+              "RelativeDocumentMoniker": "TradeManager\\Models\\Operation.cs",
+              "ToolTip": "C:\\Users\\Rodrigo\\Desktop\\PosAluraFase1\\TradeManager\\Models\\Operation.cs",
+              "RelativeToolTip": "TradeManager\\Models\\Operation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T17:18:44.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OperationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Rodrigo\\Desktop\\PosAluraFase1\\TradeManager\\Repositories\\OperationRepository.cs",
+              "RelativeDocumentMoniker": "TradeManager\\Repositories\\OperationRepository.cs",
+              "ToolTip": "C:\\Users\\Rodrigo\\Desktop\\PosAluraFase1\\TradeManager\\Repositories\\OperationRepository.cs",
+              "RelativeToolTip": "TradeManager\\Repositories\\OperationRepository.cs",
+              "ViewState": "AQIAAHMAAAAAAAAAAAAowIoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T17:08:44.829Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\Rodrigo\\Desktop\\PosAluraFase1\\DesafioAPI\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "DesafioAPI\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\Rodrigo\\Desktop\\PosAluraFase1\\DesafioAPI\\Models\\Product.cs",
-              "RelativeToolTip": "DesafioAPI\\Models\\Product.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
+              "Title": "OperationController.cs",
+              "DocumentMoniker": "C:\\Users\\Rodrigo\\Desktop\\PosAluraFase1\\TradeManager\\Controllers\\OperationController.cs",
+              "RelativeDocumentMoniker": "TradeManager\\Controllers\\OperationController.cs",
+              "ToolTip": "C:\\Users\\Rodrigo\\Desktop\\PosAluraFase1\\TradeManager\\Controllers\\OperationController.cs",
+              "RelativeToolTip": "TradeManager\\Controllers\\OperationController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAEwBYAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T17:57:51.347Z",
+              "WhenOpened": "2024-04-23T17:07:07.611Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Rodrigo\\Desktop\\PosAluraFase1\\DesafioAPI\\Program.cs",
-              "RelativeDocumentMoniker": "DesafioAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\Rodrigo\\Desktop\\PosAluraFase1\\DesafioAPI\\Program.cs",
-              "RelativeToolTip": "DesafioAPI\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAABBAAAA",
+              "DocumentMoniker": "C:\\Users\\Rodrigo\\Desktop\\PosAluraFase1\\TradeManager\\Program.cs",
+              "RelativeDocumentMoniker": "TradeManager\\Program.cs",
+              "ToolTip": "C:\\Users\\Rodrigo\\Desktop\\PosAluraFase1\\TradeManager\\Program.cs",
+              "RelativeToolTip": "TradeManager\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T17:57:02.4Z",
+              "WhenOpened": "2024-04-23T15:51:03.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Rodrigo\\Desktop\\PosAluraFase1\\TradeManager\\appsettings.json",
+              "RelativeDocumentMoniker": "TradeManager\\appsettings.json",
+              "ToolTip": "C:\\Users\\Rodrigo\\Desktop\\PosAluraFase1\\TradeManager\\appsettings.json",
+              "RelativeToolTip": "TradeManager\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-23T15:51:02.307Z",
               "EditorCaption": ""
             }
           ]
