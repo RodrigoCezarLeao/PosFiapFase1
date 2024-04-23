@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("DesafioAPI")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("TradeManager")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d7eca7ae53e59a10cd74f0ebc69863c5b09d2743")]
-[assembly: System.Reflection.AssemblyProductAttribute("DesafioAPI")]
-[assembly: System.Reflection.AssemblyTitleAttribute("DesafioAPI")]
+[assembly: System.Reflection.AssemblyProductAttribute("TradeManager")]
+[assembly: System.Reflection.AssemblyTitleAttribute("TradeManager")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

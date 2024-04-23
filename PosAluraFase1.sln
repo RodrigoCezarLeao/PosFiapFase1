@@ -5,7 +5,9 @@ VisualStudioVersion = 17.9.34723.18
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PosAluraFase1", "PosAluraFase1\PosAluraFase1.csproj", "{8573B1FC-EFA9-4E07-BA61-C5611109AF6E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioAPI", "DesafioAPI\DesafioAPI.csproj", "{10CDE8C0-477E-421B-98F1-89F1811F71C0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesafioAPI", "DesafioAPI\DesafioAPI.csproj", "{10CDE8C0-477E-421B-98F1-89F1811F71C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TradeManager", "TradeManager\TradeManager.csproj", "{DBC779ED-6DD3-4630-80D6-BA4345179C5E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{10CDE8C0-477E-421B-98F1-89F1811F71C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{10CDE8C0-477E-421B-98F1-89F1811F71C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{10CDE8C0-477E-421B-98F1-89F1811F71C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBC779ED-6DD3-4630-80D6-BA4345179C5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBC779ED-6DD3-4630-80D6-BA4345179C5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBC779ED-6DD3-4630-80D6-BA4345179C5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBC779ED-6DD3-4630-80D6-BA4345179C5E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
